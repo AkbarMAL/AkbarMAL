@@ -7,5 +7,5 @@
 
 ### 🛠️ Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,go" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,dart" />
 </p>
